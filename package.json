@@ -1,0 +1,22 @@
+{
+  "name": "e2e-funcional",
+  "version": "1.0.0",
+  "description": "testes do curso do Aquino, testes funcionais e2e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleberandradejua/e2e-funcional.git"
+  },
+  "author": "Kleber de Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kleberandradejua/e2e-funcional/issues"
+  },
+  "homepage": "https://github.com/kleberandradejua/e2e-funcional#readme",
+  "devDependencies": {
+    "@types/cypress": "^1.1.3"
+  }
+}
